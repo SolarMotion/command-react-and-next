@@ -1,1 +1,1 @@
-# command-react-and-next
+# Commands for React.js and Next.js
